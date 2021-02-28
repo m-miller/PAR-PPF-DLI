@@ -12,6 +12,8 @@ Radiant Flux is a measure of actual light output, and here it is a measure of ac
 
 Copyright (c) 2016 Ed Martin <edman007@edman007.com> 
 
+https://edman007.com/article/Plants/PAR-Lighting-Calculator
+
     Permission is hereby granted, free of charge, to any person obtaining a copy of 
     this software and associated documentation files (the "Software"), to deal in 
     the Software without restriction, including without limitation the rights to 
