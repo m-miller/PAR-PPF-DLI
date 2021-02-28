@@ -1,6 +1,7 @@
 # PAR-PPF-DLI
 
-Photosynthetically active radiation (PAR), Lumen, and Radiant Flux conversion Calculator
+# Photosynthetically active radiation (PAR), Lumen, and Radiant Flux conversion Calculator
+
 This calculates lighting as it is relevant between plants and humans using actual spectrum curves. This should be accurate for LED based grow lights as well as any other type of lighting as long as the spectrum is known. The lumen and PAR dependent numbers are calculated based on actual studies that measured the real world curves. 
 
 The PAR curve is from Institute of Life Science and Biology Department, Texas A and M University, College Station, Texas (U.S.A.), the lumen curve is from Stockman & Sharpe cone fundamentals
